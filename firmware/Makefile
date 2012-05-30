@@ -1,7 +1,7 @@
 NAME=srm
 CC=msp430-gcc
-#CFLAGS=-mmcu=msp430g2231 -g -Wall -Os
-CFLAGS=-mmcu=msp430g2452 -g -Wall -Os
+CFLAGS=-mmcu=msp430g2231 -g -Wall -Os
+#CFLAGS=-mmcu=msp430g2452 -g -Wall -Os
 #CFLAGS=-mmcu=msp430g2302 -g -Wall -Os
 
 OBJECTS=main.o ant.o
