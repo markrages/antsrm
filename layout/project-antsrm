@@ -1,0 +1,4 @@
+schematics ../schem/antsrm.sch
+output-name antsrm
+elements-dir ./packages/
+
